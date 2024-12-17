@@ -1,5 +1,7 @@
 # final-project
 
+This project is about using statistics from the actual NBA 2020 season and using those statistics to see if they have any correlation with the in game rating of the player.
+
 ### To do list
 
 ---
